@@ -1,0 +1,21 @@
+The CRISP-DM (Cross-Industry Standard Process for Data Mining) framework is a widely used methodology for conducting data mining and machine learning projects. It consists of six main phases, namely:
+
+Business Understanding: In this phase, the project objectives and requirements are identified, and the problem to be solved is defined. The focus is on understanding the business goals and how data mining can contribute to achieving them.
+Example: Let's say a retail company wants to improve its sales forecasting to optimize inventory management and reduce costs. The business objective is to accurately predict future sales based on historical data.
+
+Data Understanding: Here, data sources are identified and collected. The data is explored to gain initial insights and determine its quality and relevance to the project. Data preprocessing steps may be performed, such as cleaning, transforming, and integrating data.
+Example: The retail company gathers historical sales data, including daily sales figures, product information, pricing data, promotional activities, and external factors like holidays and weather conditions.
+
+Data Preparation: In this phase, the data is prepared for modeling by selecting relevant features, handling missing values, dealing with outliers, and transforming variables as required. Data sampling or splitting may be done to create training and testing datasets.
+Example: The retail company selects relevant features such as product category, price, discounts, and promotional activities. Missing values are imputed or discarded, and outliers are treated appropriately. The data is split into training and testing sets, with a majority allocated for training the forecasting model.
+
+Modeling: This phase involves selecting appropriate modeling techniques and algorithms, building and training models, and fine-tuning them to achieve the best performance. Multiple models may be evaluated to determine the most suitable one for the given problem.
+Example: The retail company uses various forecasting techniques like time series models (e.g., ARIMA, exponential smoothing), regression models, or machine learning algorithms (e.g., random forests, neural networks). Different models are trained using the training dataset and compared based on their accuracy and predictive power.
+
+Evaluation: In this phase, the trained models are evaluated using the testing dataset to assess their performance and their ability to meet the project objectives. The models are assessed against predefined success criteria, and any necessary adjustments or improvements are made.
+Example: The retail company evaluates the forecasting models using the testing dataset by comparing the predicted sales values with the actual sales values. Metrics like mean absolute error (MAE), root mean square error (RMSE), or accuracy are used to measure the performance of the models. The best-performing model is selected for deployment.
+
+Deployment: In the final phase, the chosen model is deployed in the operational environment, integrated into the business processes, and used to generate predictions or recommendations. Documentation and reporting are prepared to communicate the results and insights derived from the project.
+Example: The retail company integrates the selected forecasting model into their inventory management system, enabling them to generate accurate sales forecasts for different products and time periods. The model's predictions are used to optimize inventory levels, plan promotions, and improve overall business decision-making.
+
+The CRISP-DM framework provides a structured approach for data mining projects, ensuring that each phase is executed systematically to achieve the desired business outcomes.
