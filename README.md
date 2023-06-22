@@ -3,3 +3,6 @@ Build classification model using a dataset with 16 features to classify dry bean
 
 # Further information 
 Find additional information about dataset in the Dry_Bean_Dataset.txt
+
+# Model Codes 
+The classification notebook contains the codes used to build the model. 
