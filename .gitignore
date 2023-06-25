@@ -1,1 +1,4 @@
 personalized_classification_framework.txt
+*.ipynb_checkpoints
+*.virtual_documents/
+crisp-dm.txt
